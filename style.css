@@ -7,6 +7,14 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+ /* modification seo et accessibilitées */
+
+blockquote {
+    border: none;
+}
+
+ /* modification seo et accessibilitées */
+
 a,
 button {
     transition: all .3s ease-in-out;
