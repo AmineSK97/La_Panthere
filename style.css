@@ -13,6 +13,10 @@ blockquote {
     border: none;
 }
 
+address {
+    font-size: 16px;
+}
+
  /* modification seo et accessibilitées */
 
 a,
